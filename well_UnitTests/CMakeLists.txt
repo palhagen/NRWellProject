@@ -29,7 +29,6 @@ source_group("" FILES ${PROJECT_FILES})
 target_link_libraries ( ${PROJECT_NAME}
     NR_well
     NR_iotools
-    
-    ${Boost_LIBRARIES}
+    BoostParts
 )
 
