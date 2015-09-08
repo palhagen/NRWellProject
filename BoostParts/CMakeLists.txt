@@ -7,6 +7,18 @@
 #
 #########################################################
 
+# Current NRLib works with Boost version 1.44. This is the lastest version using Filesystem 2.
+
+
+# Downlaad Boost source code from
+# http://www.boost.org/users/history/
+# http://sourceforge.net/projects/boost/files/boost/1.44.0/
+
+# Download Boost binaries from 
+# http://sourceforge.net/projects/boost/files/boost-binaries/old-monolithic/
+# http://sourceforge.net/projects/boost/files/boost-binaries/old-monolithic/boost_1_44_0-vc64-bin.exe/download
+
+
 # The interesting parts of Boost have been extracted using 
 # the BCP tool:
 #   http://www.boost.org/doc/libs/1_45_0/tools/bcp/doc/html/index.html
